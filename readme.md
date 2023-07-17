@@ -20,12 +20,12 @@ I trained a machine learning model to be able to predict the target outcome, if 
 
 After training the model, I evaluated how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, I created a visualisation to interpret how each variable contributed to the model. Finally, I summarised my findings this [Powerpoint Presentation](https://github.com/dalphonorechi/KPMG-Virtual-Experience-Program/blob/main/Module_2.pptx).
 
-![Confusion Matrix](data/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 
 ## Task 3 : Create Dashboard.
 
-in this task, I used Power BI to create a set of [reports](https://github.com/dalphonorechi/KPMG-Virtual-Experience-Program/blob/main/sprocket_central.pbix)) from the Sprocket Central Customer Data.
+in this task, I used Power BI to create a set of [reports](https://github.com/dalphonorechi/KPMG-Virtual-Experience-Program/blob/main/sprocket_central.pbix) from the Sprocket Central Customer Data.
 
 ![Overview](overview.JPG)
 
